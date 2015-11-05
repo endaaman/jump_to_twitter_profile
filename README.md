@@ -1,6 +1,6 @@
 # Jump to Twitter profile
 選択したテキストテキストのユーザー名のTwitterプロフィールを開きます。
-`@`マークは自動で無視するので気にしないでまるって選択してください。
+`@`マークは自動で無視するので気にしないでまるっと選択してください。
 
 ![スクショ](http://endaaman.me/files/jump_to_twitter_profile.png)
 
