@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+  "name": "Jump to Twitter profile",
+  "version": "0.1",
+  "description": "選択したツイッターID（@twitter）みたいなやつを選択して右クリックするとそのアカウントのページを開く奴",
+  "permissions": [
+    "contextMenus",
+    "tabs"
+  ],
+  "background": {
+    "scripts": ["main.js"]
+  }
+}
